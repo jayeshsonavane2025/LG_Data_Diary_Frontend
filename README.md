@@ -45,7 +45,7 @@ We want to express our heartfelt gratitude to the talented members of the Akatsu
 - **[Add Member 6](https://github.com/username)**
 - **[Add Member 7](https://github.com/username)**
 - **[Add Member 8](https://github.com/username)**
--**[Jayesh Sonavane](https://github.com/jayeshsonavane2025)**
+- **[Jayesh Sonavane](https://github.com/jayeshsonavane2025)**
 - **[Add Member 10](https://github.com/username)**
 
 ## Contributing 🤝
