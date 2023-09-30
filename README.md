@@ -39,9 +39,9 @@ We want to express our heartfelt gratitude to the talented members of the Akatsu
 
 - **[Saurav Patil](https://github.com/username)**
 - **[Hitesh Wadile](https://github.com/username)**
-- **[Pruthviraj Chaudhari](https://github.com/pruthviraj-chaudhari)**
-- **[Jayesh Sonavane](https://github.com/jayeshsonavane2025)**
-- **[Add Member 5](https://github.com/username)**
+- **[Pruthviraj Chaudhari](https://github.com/pruthviraj-chaudhari)** 
+- **[Jayesh Sonavane](https://github.com/jayeshsonavane2025)** 
+- **[Vivek Patil](https://github.com/vivekPatil45)**
 - **[Add Member 6](https://github.com/username)**
 - **[Add Member 7](https://github.com/username)**
 - **[Add Member 8](https://github.com/username)**
